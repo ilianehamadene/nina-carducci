@@ -76,7 +76,7 @@ body {
 	z-index: 0;
 }
 
-.picture img {
+.picture {
 	width: 100%;
 	
 }
@@ -363,10 +363,10 @@ input[type="submit"] {
 }
 
 .ninasize{
-	width: 278px;
+	width: 380px;
 	height: 380px;
 }
 .camerasize{
 	height: 350px;
-	width: 259px;
+	width: 350px;
 }
