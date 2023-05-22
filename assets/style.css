@@ -64,6 +64,18 @@ body {
 	z-index: -1;
 }
 
+.camerasize{
+	height: 400px;
+	width: 550px;
+}
+
+.ninasize{
+	max-width: 400px;
+}
+.instasize{
+	height: 20px;
+	width: 30px;
+}
 .picture {
 	flex: 1;
 	margin: 0 20px;
