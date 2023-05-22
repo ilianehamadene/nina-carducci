@@ -65,13 +65,10 @@ body {
 }
 
 .camerasize{
-	height: 400px;
+	height: 350px;
 	width: 550px;
 }
 
-.ninasize{
-	max-width: 400px;
-}
 .instasize{
 	height: 20px;
 	width: 30px;
@@ -84,7 +81,7 @@ body {
 
 .picture img {
 	width: 100%;
-
+	
 }
 #about-me {
 	flex: 2
@@ -131,7 +128,7 @@ body {
 	content: "";
 	display: block;
 	padding-bottom: 100%;
-
+	
 }
 .gallery-item {
 	position: absolute;
@@ -367,4 +364,7 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
+.ninasize{
+	width:10px;
+	height: 350px;
+}
