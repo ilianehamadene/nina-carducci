@@ -362,3 +362,11 @@ input[type="submit"] {
 	}
 }
 
+.ninasize{
+	width: 380px;
+	height: 380px;
+}
+.camerasize{
+	height: 350px;
+	width: 350px;
+}
